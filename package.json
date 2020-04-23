@@ -1,0 +1,25 @@
+{
+  "name": "dcinside-recommended-post-capture",
+  "version": "1.0.0",
+  "description": "This program automatically captures DCinside's Recommended posts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writingdeveloper/dcinside-recommended-post-capture.git"
+  },
+  "keywords": [
+    "dcinside"
+  ],
+  "author": "writingdeveloper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/writingdeveloper/dcinside-recommended-post-capture/issues"
+  },
+  "homepage": "https://github.com/writingdeveloper/dcinside-recommended-post-capture#readme",
+  "dependencies": {
+    "puppeteer": "^2.1.0"
+  }
+}
